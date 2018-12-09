@@ -1,0 +1,16 @@
+button {
+    padding: 5px;
+    margin: 10px;
+}
+
+.d-block {
+    margin-top: 100px;
+    background-color: beige;
+    text-align: center;
+    border: 5px solid burlywood;
+    padding: 20px;
+}
+
+body {
+    background-image: url('../images/musicnotes.jpg');
+}
